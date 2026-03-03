@@ -649,7 +649,7 @@ export default function App() {
                 Contactez-<span style={{ color: '#10b981' }}>moi</span>
               </h2>
               <p style={{ color: d ? '#555' : '#888', maxWidth: '480px', margin: '0 auto', lineHeight: 1.7, fontSize: '15px' }}>
-                Vous avez un projet ou une opportunité ? N'hésitez pas à m'écrire.
+                Je suis disponible pour toute opportunité de stage N’hésitez pas à me contacter .
               </p>
             </div>
 
